@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(150, 90);
+            this.ClientSize = new System.Drawing.Size(180, 100);
             this.Text = "JogoGourmet";
         }
 
